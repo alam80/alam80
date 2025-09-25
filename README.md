@@ -1,4 +1,9 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Sanouwar Alam</h1>
+
+- 👨‍💻 All of my projects are available at [https://sanouwar-protfolios.vercel.app](https://sanouwar-protfolios.vercel.app)
+
+- 📫 How to reach me **alamsanouwar@gmail.com**
+
 I am a passionate and skilled mobile application and website developer with experience in building dynamic and user-friendly digital solutions. Specializing in React Native, I craft high-performance mobile apps that run seamlessly on both iOS and Android platforms. I leverage the React Native CLI to ensure full customization and flexibility in app development. With a keen eye for design and functionality, I aim to deliver intuitive, efficient, and responsive user experiences.<br><br>Whether working on mobile applications or web development, I am driven by the challenge of turning ideas into practical, polished products. I thrive in collaborative environments and am always eager to learn new tools and techniques to improve my craft.
 
 
